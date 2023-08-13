@@ -1,0 +1,2 @@
+Se ha visto sobre el controlador de versiones
+las diferencias entre git
